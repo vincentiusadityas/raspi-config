@@ -1,7 +1,9 @@
 "# raspi-magnetic-doorlock" 
 
 GROUP VIOLET 2016
+
 Members:
+
 	1606863472 - Vincentius Aditya Sundjaja 
 	1606863485 - Rayhan Naufal Hendry
 	1606899863 - A. Bayusuto Wanengkirtyo 
